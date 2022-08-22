@@ -4,4 +4,4 @@ This is a SaaS application that generates AI branding snippets and keywords for 
 
 # Examples
 
-Try out the demo here: market-my-brand.vercel.app
+Try out the demo here: https://market-my-brand.vercel.app/
