@@ -33,7 +33,7 @@ interface FormProps {
         <input
           className="p-2 w-full rounded-md focus:outline-teal-400 focus:outline text-slate-700"
           type="text"
-          placeholder="coffee"
+          placeholder="What is your brand about?"
           value={props.prompt}
           onChange={(e) => updatePromptValue(e.currentTarget.value)}
         ></input>
